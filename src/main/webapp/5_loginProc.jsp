@@ -25,7 +25,7 @@
 	}else{
 		response.sendRedirect("5_login.jsp?fail=y");
 		// 'fail' 파라미터에 'y' 값을 전달하면서 5_login.jsp 페이지로 리다이렉트
-		
+	
 	}
 %>
 </body>
